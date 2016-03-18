@@ -4,7 +4,7 @@
 
 **Author:** Stephanie Nguyen
 
-**Due date:** Stephanie Nguyen
+**Due date:** March 17
 
 ## Description
 

@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** Stephanie Nguyen
 
-**Due date:** _\<date\>_
+**Due date:** Stephanie Nguyen
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
-
+Exercises 3.23, 3.24 and 3.25 from the textbook. Complete three assignments called: "Histograms," "Length of an integer,"
+ and "Enhanced Histograms."
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+I learned how to use nested loops, count pairs in a sequence, and make T-chart.
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Stephanie Nguyen
